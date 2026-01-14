@@ -9,7 +9,7 @@ de rutas de señalización en tejidos no sanguíneos, utilizando datos del proye
 
 El flujo de trabajo integra análisis en R y Python, ejecutados en un entorno computacional reproducible y automatizados 
 mediante scripts Bash bajo un sistema de colas SLURM.
-
+Entrar al path Git/Git
 ---
 
 ## Descarga del repositorio
