@@ -1,0 +1,13 @@
+# Ignorar todos los CSV
+*.csv
+
+# Ignorar archivos grandes como Excel, ZIP, etc.
+*.xlsx
+*.xls
+*.zip
+*.tar
+*.gz
+
+# Ignorar carpetas de datos
+data/
+datasets/

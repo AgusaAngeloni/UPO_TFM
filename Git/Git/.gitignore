@@ -1,0 +1,13 @@
+############################
+# Archivos grandes comunes
+############################
+
+# Tablas
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.ods
+
+# JSON grandes (outputs)
+*.json
