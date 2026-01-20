@@ -175,7 +175,7 @@ for fold, (train_id, test_id) in enumerate(cv_exter.split(X), start=1):
              count += 1
            
         fold_metricas[via] = {
-            'r1': r2_score(y_test, y_pred),
+            'r2': r2_score(y_test, y_pred),
             'rmse': np.sqrt(mean_squared_error(y_test, y_pred)),
             'mae': mean_absolute_error(y_test, y_pred)
         }
